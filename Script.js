@@ -19,7 +19,7 @@ function addNewNote(){
             </div>
             
 
-            <textarea style="background-color:rgb(190, 245, 237);"></textarea>
+            <textarea style="background-color:rgb(211, 240, 236);"></textarea>
         </div>
         `;
         
